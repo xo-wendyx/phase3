@@ -8,6 +8,6 @@ body{
 
 .myslides{ 
   height: 40vh;
-  width: 40vw; 
+  width: 100vw; 
   background-color: #AB1D23;
 }
