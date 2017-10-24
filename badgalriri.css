@@ -5,3 +5,9 @@ body{
   flex-wrap: wrap; 
   background-color: #E7E8EA;
 }
+
+.myslides{ 
+  height: 40vh;
+  width: 40vw; 
+  background-color: #AB1D23;
+}
