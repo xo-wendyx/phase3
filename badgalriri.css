@@ -20,8 +20,8 @@ body{
 }
 
 .box{ 
-  height: calc(100%/3 - 4px);
-  width: 25% 
+  height: 50%;
+  width:calc(100%/3 - 4px);  
 }
 
 .info0{
