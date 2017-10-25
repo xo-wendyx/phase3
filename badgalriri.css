@@ -20,7 +20,7 @@ body{
 }
 
 .box{ 
-  height: calc(100%/3 - 2);
+  height: calc(100%/3 - 4);
   width: 35% 
 }
 
