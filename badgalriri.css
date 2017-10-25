@@ -12,14 +12,14 @@ body{
   background-color: #AB1D23;
 }
 
-.column1, .column3{
+.column1{
   height: 100vh; 
   width: 33vw; 
   display: flex; 
   flex-wrap: wrap; 
 }
 
-.box, .box2{ 
+.box{ 
   height: calc(100%/3 - 4px);
   width: 100%;  
 }
@@ -56,16 +56,6 @@ body{
   background-color: #526FF3;
 }
 
-.info5{
-  background-color: #52F3DB; 
-}
 
-.info6{ 
-  background-color: #DBF352;
-}
-
-.info7{
-  background-color: #F3BB52;
-}
 
 
