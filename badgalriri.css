@@ -21,7 +21,7 @@ body{
 
 .box{ 
   height: calc(100%/3 - 4px);
-  width: 50% 
+  width: 25% 
 }
 
 .info0{
