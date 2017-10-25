@@ -35,5 +35,25 @@ body{
 .info2{ 
   background-color: #F352E2;
 }
-  
+ 
+.column2{ 
+  height: 100vh;
+  width: 50vw;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box2 { 
+  height: calc(100%/2 - 4px); 
+  width: 100%;
+}
+
+.info3{
+  background-color: #F35252; 
+}
+
+.info4{ 
+  background-color: #526FF3;
+}
+
 
