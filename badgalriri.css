@@ -43,7 +43,7 @@ body{
   flex-wrap: wrap;
 }
 
-.box2 { 
+.box1 { 
   height: calc(100%/2 - 4px); 
   width: 100%;
 }
